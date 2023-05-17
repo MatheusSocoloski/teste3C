@@ -1,4 +1,4 @@
-# pratico
+# Teste pratico para a 3C+
 
 ## Project setup
 ```
